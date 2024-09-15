@@ -12,7 +12,7 @@ Este repositorio contiene una implementación básica de autenticación usando P
 1. Clona este repositorio:
 
    ```
-   git clone URL
+   git clone https://github.com/TheWiXi/Passport.js.git
    ```
 2. Instala las dependencias:
 
